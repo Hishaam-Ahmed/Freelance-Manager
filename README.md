@@ -19,16 +19,16 @@ For the frontend, React.js was used along with tailwind css for styling
 
 ## Packages used for the backend
 
-npm i express nodemon
-npm i mongoose
-npm i cors
+ - npm i express nodemon
+ - npm i mongoose
+ - npm i cors
 
 ## Packages used for the frontend
 
-npm i
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
-npm i react-router-dom
-npm i axios
+ - npm i
+ - npm install -D tailwindcss postcss autoprefixer
+ - npx tailwindcss init -p
+ - npm i react-router-dom
+ - npm i axios
 
 

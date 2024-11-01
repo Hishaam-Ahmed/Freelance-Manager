@@ -5,7 +5,7 @@ This a freelancer management app creating using the MERN stack.
 
 ## Installation
 
-First [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository then use the following command in the terminal of the project folder
+First [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository or dowload it, then use the following command in the terminal of the project folder
 
 ```bash
   npm install

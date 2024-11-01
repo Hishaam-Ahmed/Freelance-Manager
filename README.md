@@ -23,7 +23,7 @@ It consists of two folders:
 
 ## How to run the app locally
 
-For this you need to open up two terminals simultaneously, in the first one to the 'backend' folder and running the run dev command:
+For this you need to open up two terminals simultaneously, in the first one, go to the 'backend' folder and type the run dev command:
 ```bash
   cd backend
   npm run dev

@@ -34,4 +34,4 @@ In the second terminal go to the 'frontend' folder and run the same run dev comm
   npm run dev
 ```
 
-Now open your frontend app in the localhost and you will be able to use the application
+Now use the link given in your terminal regarding the frontend app and open it in the localhost and you will be able to use the application

@@ -10,7 +10,7 @@ First [clone](https://docs.github.com/en/repositories/creating-and-managing-repo
 ```bash
   npm install
 ```
-The database used is mongodb and is already configured
+The database used is mongodb and is already hosted on the mongodb website so you do not need to install or configure it 
 
 
 ## Structure

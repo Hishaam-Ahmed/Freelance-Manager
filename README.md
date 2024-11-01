@@ -3,6 +3,16 @@
 This a freelancer management app creating using the MERN stack.
 
 
+## Installation
+
+First [clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository then use the following command in the terminal of the project folder
+
+```bash
+  npm install
+```
+The database used is mongodb and is already configured
+
+
 ## Structure
 
 It consists of two folders: 
@@ -11,24 +21,17 @@ It consists of two folders:
  - frontend
 
 
-## MERN Stack
+## How to run the app locally
 
-For the backend, node.js and express were used to create the API and MongoDB was used as the database
+For this you need to open up two terminals simultaneously, in the first one to the 'backend' folder and running the run dev command:
+```bash
+  cd backend
+  npm run dev
+```
+In the second terminal go to the 'frontend' folder and run the same run dev command there:
+```bash
+  cd frontend
+  npm run dev
+```
 
-For the frontend, React.js was used along with tailwind css for styling
-
-## Packages used for the backend
-
- - npm i express nodemon
- - npm i mongoose
- - npm i cors
-
-## Packages used for the frontend
-
- - npm i
- - npm install -D tailwindcss postcss autoprefixer
- - npx tailwindcss init -p
- - npm i react-router-dom
- - npm i axios
-
-
+Now open your frontend app in the localhost and you will be able to use the application

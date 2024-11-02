@@ -23,13 +23,6 @@ Now move back and go to the frontend folder and install packages there:
 The database used is mongodb and is already hosted on the mongodb website so you do not need to install or configure it 
 
 
-## Structure
-
-It consists of two folders: 
-
- - backend
- - frontend
-
 
 ## How to run the app locally
 

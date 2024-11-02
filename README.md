@@ -1,6 +1,6 @@
 # Freelance Manager
 
-This a freelancer management app creating using the MERN stack.
+This a freelancer management app created using the MERN stack.
 
 
 ## Installation
